@@ -1,0 +1,6 @@
+WIP modding M910 2.6.32 Vital & InstintcQ files to work with Jet / S8000 for 2.6.39.5 kernel.
+
+This files can build a working zImage except for video that starts and then fails / phone shuts 
+down dew to ams320* and 24bit instead of ams310* and 16bit.
+
+Hopefully witht his files the conversion should be easier to complete.
