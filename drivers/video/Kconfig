@@ -273,8 +273,14 @@ config FB_S3C_S6D05A0
 	bool "S6D05A0"
 	---help---
 	TBA
+
 config FB_S3C_AMS320FS01
 	bool "AMS320FS01"
+	---help---
+	TBA
+
+config FB_S3C_AMS310FS07
+	bool "AMS310FS07"
 	---help---
 	TBA
 
